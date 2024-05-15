@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFlOHR4NzBiZWtmc280Mnc2YWhybHJmcTRjZzllYTh4aGgweTVhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QHE5gWI0QjqF2/giphy.gif)]
+
 <h1 align="center">Hi 👋, I'm Charles Muema</h1>
 <h3 align="center">A FullStack Developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
